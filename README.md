@@ -1,6 +1,10 @@
 # 𝐌𝐈𝐑𝐀𝐆𝐄-𝐌𝐃 𝐕1.5.2
 
 
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg" alt="01" border="0" /></a>                     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center">  SCAN SESSION </h1>
+
 
 𝐦𝐢𝐫𝐚𝐠𝐞 𝐦𝐝 𝐯1.5.2 is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, 𝐦𝐢𝐫𝐚𝐠𝐞 is here to assist you.
 
@@ -57,4 +61,11 @@ Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversatio
 - [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
 
 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐎𝐖𝐍𝐄𝐑
- 1https://wa.me/qr/BLJX2FQKK3PYN1
+
+
+
+   
+   <a href="https://wa.me/qr/BLJX2FQKK3PYN1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
