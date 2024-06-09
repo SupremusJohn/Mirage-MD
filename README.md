@@ -56,3 +56,5 @@ Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversatio
 - [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
 - [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
 
+𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐎𝐖𝐍𝐄𝐑
+ 1https://wa.me/qr/BLJX2FQKK3PYN1
