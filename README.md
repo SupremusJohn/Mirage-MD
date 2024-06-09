@@ -40,13 +40,15 @@
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
 
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
+𝐂𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩
 
-
-- [`𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩 𝐜𝐡𝐚𝐭]<a href=(https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOh)
+<a href=(https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOh)
 img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a
-- [𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥]<a href=(https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m)
+  <a
+
+𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+<a href=(https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m)
 img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
