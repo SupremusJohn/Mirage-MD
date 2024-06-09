@@ -3,7 +3,7 @@
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SCAN SESSION </h1>
+
 
 
 𝐦𝐢𝐫𝐚𝐠𝐞 𝐦𝐝 𝐯1.5.2 is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, 𝐦𝐢𝐫𝐚𝐠𝐞 is here to assist you.
@@ -49,16 +49,16 @@ Contributions to Zokou are welcome! If you have ideas for new features, improvem
 
    **CrazyPrice** who hosted a second website for the session_id;
 
-## License
+## 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑𝐒 𝐓𝐄𝐀𝐌 𝐑𝐄𝐕𝐈𝐄𝐖
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+𝐌𝐢𝐫𝐚𝐠𝐞 𝐦𝐝 𝐯1.5.2 𝐢𝐬 𝐚 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐛𝐨𝐭 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐭𝐡𝐞 𝐣𝐨𝐲 𝐢𝐧𝐜 𝐭𝐞𝐚𝐦 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐡𝐚𝐫𝐝 𝐰𝐨𝐫𝐤 
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot 𝐦𝐢𝐫𝐚𝐠𝐞 𝐦𝐝 to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [**𝐉𝐎𝐘𝐁𝐎𝐘++**](https://github.com/djalega8000/Zokou-MD/)
+- [**᚛𝐋𝐚𝐳𝐚𝐜𝐤᚜**](https://github.com/Faouz995)
 
 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐎𝐖𝐍𝐄𝐑
 
