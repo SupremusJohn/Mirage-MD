@@ -42,9 +42,14 @@
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 
 
-- [`𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩 𝐜𝐡𝐚𝐭](https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOh)
-- [𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m)
-
+- [`𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩 𝐜𝐡𝐚𝐭]<a href=(https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOh)
+img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
+- [𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥]<a href=(https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m)
+img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
 
 ## 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑𝐒 𝐓𝐄𝐀𝐌 𝐑𝐄𝐕𝐈𝐄𝐖
 
@@ -54,7 +59,7 @@ Enjoy the diverse features of the WhatsApp Bot 𝐦𝐢𝐫𝐚𝐠𝐞 𝐦𝐝
 
 ## Developers:
 
-- [**𝐉𝐎𝐘𝐁𝐎𝐘++**]([https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2])
+- [**𝐉𝐨𝐲𝐠𝐨𝐨𝐝𝐛𝐨𝐲++**]([https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2])
 - [**᚛𝐋𝐚𝐳𝐚𝐜𝐤28᚜**](https://github.com/Faouz995)
 - [**᚛𝐎𝐥𝐚𝐰𝐚𝐥𝐞04᚜**]
 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐎𝐖𝐍𝐄𝐑
