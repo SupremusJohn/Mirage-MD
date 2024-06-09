@@ -32,7 +32,6 @@
 2. 𝐇𝐎𝐖 𝐓𝐎 𝐎𝐁𝐓𝐀𝐈𝐍 𝐁𝐎𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃:
 
    𝐂𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞 𝐟𝐨𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐝;
-   
    [Session-1](https://zokouscan-vee8.onrender.com) ; <br>
 
 
@@ -58,7 +57,7 @@
 </h4>
 
 <p align="center" >
-<a href="https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+<a href="https://whatsapp.com/channel/0029VaR5tqV5a23wYRkR7O3Y"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
 
