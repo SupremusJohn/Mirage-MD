@@ -42,19 +42,23 @@
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 𝐂𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩
 
-<h4 align="center"> Join my WhatsApp Group for Discussion / Suggestion / Help.
+<h4 align="center"> Join my WhatsApp Group to share ideas and for Help.
 </h4>
 
 <p align="center" >
-<a href="https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOhStrict"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+<a href="https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOh"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
 
 𝐂𝐡𝐚𝐧𝐧𝐞𝐥
-<a href=(https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m)
-img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
+
+<h4 align="center"> Join my WhatsApp Channel for updates and Help.
+</h4>
+
+<p align="center" >
+<a href="https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+</a>
+</p>
 
 ## 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑𝐒 𝐓𝐄𝐀𝐌 𝐑𝐄𝐕𝐈𝐄𝐖
 
