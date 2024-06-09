@@ -27,7 +27,7 @@
 
 ## 𝐖𝐀𝐍𝐓 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐌𝐈𝐑𝐀𝐆𝐄 𝐌𝐃 𝐕1.5.2
 
-1. 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** 𝐭𝐨 𝐡𝐚𝐯𝐞 𝐚 𝐜𝐨𝐩𝐲 𝐨𝐟 𝐦𝐢𝐫𝐚𝐠𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 . 𝐦𝐚𝐤𝐞 𝐬𝐮𝐫𝐞 𝐲𝐨𝐮 𝐠𝐢𝐯𝐞 𝐚 𝐬𝐭𝐚𝐫 𝐭𝐨 𝐭𝐡𝐞 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨 𝐛𝐞𝐟𝐨𝐫𝐞 𝐲𝐨𝐮 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐨 𝐞𝐧𝐜𝐨𝐮𝐫𝐚𝐠𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 🌟
+1. 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 **[Fork](https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2/fork)** 𝐭𝐨 𝐡𝐚𝐯𝐞 𝐚 𝐜𝐨𝐩𝐲 𝐨𝐟 𝐦𝐢𝐫𝐚𝐠𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 . 𝐦𝐚𝐤𝐞 𝐬𝐮𝐫𝐞 𝐲𝐨𝐮 𝐠𝐢𝐯𝐞 𝐚 𝐬𝐭𝐚𝐫 𝐭𝐨 𝐭𝐡𝐞 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨 𝐛𝐞𝐟𝐨𝐫𝐞 𝐲𝐨𝐮 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐨 𝐞𝐧𝐜𝐨𝐮𝐫𝐚𝐠𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 🌟
 
 2. Obtain a bot session: 
 
@@ -39,15 +39,12 @@
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
 
-## Contributions
+## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-   thinks to these persons ;
+- [`𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩 𝐜𝐡𝐚𝐭](https://chat.whatsapp.com/GRK2A2O6kNYII4g6oVHlOh)
+- [𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m)
 
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
-
-   **CrazyPrice** who hosted a second website for the session_id;
 
 ## 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑𝐒 𝐓𝐄𝐀𝐌 𝐑𝐄𝐕𝐈𝐄𝐖
 
@@ -57,9 +54,9 @@ Enjoy the diverse features of the WhatsApp Bot 𝐦𝐢𝐫𝐚𝐠𝐞 𝐦𝐝
 
 ## Developers:
 
-- [**𝐉𝐎𝐘𝐁𝐎𝐘++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛𝐋𝐚𝐳𝐚𝐜𝐤᚜**](https://github.com/Faouz995)
-
+- [**𝐉𝐎𝐘𝐁𝐎𝐘++**]([https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2])
+- [**᚛𝐋𝐚𝐳𝐚𝐜𝐤28᚜**](https://github.com/Faouz995)
+- [**᚛𝐎𝐥𝐚𝐰𝐚𝐥𝐞04᚜**]
 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐎𝐖𝐍𝐄𝐑
 
 
