@@ -45,14 +45,14 @@ const date = moment().format('DD/MM/YYYY');
 │   🇬🇭*Country* :Ghana
 │.  🆕*Release* *date* :2024
 │.  🌟*Religion* : *Christianity*
-│   *Uptime:* ${uptime}
-│   *Database:* ${rtotalreg} of ${totaluser} 
-│   *Total Users:* ${totaluser}
-    *Bot Name* : {*Mirage md*  v1.5.2}
+│   🧭*Uptime:* ${uptime}
+│   🏆*Database:* ${rtotalreg} of ${totaluser} 
+│   😁*Total Users:* ${totaluser}
+│    🤖*Bot Name* : {*Mirage md*  v1.5.2}
 │        ────────
 │       * _User Info:_ *
 │    👤*User Tag:* ${taguser} 
-│    *Name:* ${name}  
+│    📄*Name:* ${name}  
 ╰─────✧𝐌𝐈𝐑𝐀𝐆𝐄 𝐌𝐃 𝐕1.5.2-𝐁𝐎𝐓✧─────◆ \n\n`;
     
 let menuMsg = `
