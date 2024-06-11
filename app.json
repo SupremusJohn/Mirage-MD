@@ -2,8 +2,8 @@
   "name":"MIRAGE MD-V1.5.2",
   "description":"A  whatsapp bot developed and programmed by joyboy",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "logo":"https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg",
+  "repository":"https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2",
   "succes_url":"/",
   "stack":"container",
   "env":{
