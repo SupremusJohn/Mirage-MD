@@ -49,15 +49,28 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
 ╔════---------
-║    Préfixe : ${s.PREFIXE}
-║    Owner : ${s.OWNER_NAME}    
-║    Mode : ${mode}
-║    Commandes:${cm.length}
-║    Date : ${date}
-║    Heure : ${temps}
-║    Mémoire : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-║    Plateforme : ${os.platform()}
-║    Développeurs : Djalega++||Luffy
+║    𝐏𝐫𝐞𝐟𝐢𝐱𝐞 : ${s.PREFIXE}
+║    𝐎𝐰𝐧𝐞𝐫 : ${s.OWNER_NAME}    
+║    𝐌𝐨𝐝𝐞 : ${mode}
+║    𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬:${cm.length}
+║    𝐃𝐚𝐭𝐞 : ${date}
+║    𝐇𝐨𝐮𝐫 : ${temps}
+║    𝐌𝐞𝐦𝐨𝐫𝐲 : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+║    𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : ${os.platform()}
+║    𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 : 𝐌𝐚𝐢𝐧 𝐝𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐉𝐨𝐲𝐛𝐨𝐲)||𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐎𝐥𝐚)||𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐋𝐚𝐳𝐚𝐜𝐤28)
+║    𝐂𝐨𝐮𝐧𝐭𝐫𝐲 :𝐆𝐡𝐚𝐧𝐚
+║    𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 :𝐀 𝐜𝐨𝐦𝐦𝐢𝐭𝐞𝐝 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧
+║    𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐝𝐚𝐭𝐞 :2024
+            
+┏━━🤖 _BOT STATUS:_🤖━━┓
+┃ 🏮  *Founder:* Salman Ahmad
+┃ 🤡  *Bot Name:* ${botname} 
+┃ 💻  *Host:* Kali Linix
+┃ 📣  *Prefix:* ${usedPrefix} 
+┃ 🕓  *Uptime:* ${uptime}
+┃ 💌  *Database:* ${rtotalreg} of ${totaluser} 
+┃ 📚  *Total Users:* ${totaluser} 
+╰───────────────⍟
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
