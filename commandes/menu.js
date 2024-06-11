@@ -33,16 +33,18 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧${s.BOT}✧────◆
-│   *Préfix* : ${s.PREFIXE}
+│   *Prefix* : ${s.PREFIXE}
 │   *Owner* : ${s.OWNER_NAME}
 │   *Mode* : ${mode}
 │   *Commands* : ${cm.length}
 │   *Date* : ${date}
 │   *Hour* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│   *Plateforme* : ${os.platform()}
-│   *Développer* : Djalega++ 
-│  & M๏𝓷keℽ D Lบffy
+│   *Platform* : ${os.platform()}
+│   *Developers* :*Main* *developer*(*Joyboy*),*Co *developer*(*Ola*)& *Co* *developer*(*Lazack28*)
+│   *Country* :Ghana
+│.  *Release* *date* :2024
+│.  *Religion* : *Christianity*
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
@@ -56,7 +58,7 @@ let menuMsg = `
         menuMsg += `╭────❏ ${cat} ❏`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│ ${cmd}`;
+│ ★🦁${cmd}`;
         }
         menuMsg += `
 ╰═════════════⊷ \n`
