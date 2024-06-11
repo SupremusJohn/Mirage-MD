@@ -33,31 +33,35 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧${s.BOT}✧────◆
-│   *Prefix* : ${s.PREFIXE}
-│   *Owner* : ${s.OWNER_NAME}
-│   *Mode* : ${mode}
-│   *Commands* : ${cm.length}
-│   *Date* : ${date}
-│   *Hour* : ${temps}
-│   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│   *Platform* : ${os.platform()}
-│   *Developers* :*Main* *developer*(*Joyboy*),*Co *developer*(*Ola*)& *Co* *developer*(*Lazack28*)
-│   *Country* :Ghana
-│.  *Release* *date* :2024
-│.  *Religion* : *Christianity*
+│   📚*Prefix* : ${s.PREFIXE}
+│   👩‍💻*Owner* : ${s.OWNER_NAME}
+│   🏅*Mode* : ${mode}
+│   📒*Commands* : ${cm.length}
+│   📅*Date* : ${date}
+│   ⏱️*Hour* : ${temps}
+│   ⚙️*Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│   🗂️*Platform* : ${os.platform()}
+│   👥*Developers* :*Main* *developer*(*Joyboy*),*Co *developer*(*Ola*)& *Co* *developer*(*Lazack28*)
+│   🇬🇭*Country* :Ghana
+│.  🆕*Release* *date* :2024
+│.  🌟*Religion* : *Christianity*
 │   *Uptime:* ${uptime}
 │   *Database:* ${rtotalreg} of ${totaluser} 
 │   *Total Users:* ${totaluser}
     *Bot Name* : {*Mirage md*  v1.5.2}
 │        ────────
 │       * _User Info:_ *
-│    *User Tag:* ${taguser} 
+│    👤*User Tag:* ${taguser} 
 │    *Name:* ${name}  
 ╰─────✧𝐌𝐈𝐑𝐀𝐆𝐄 𝐌𝐃 𝐕1.5.2-𝐁𝐎𝐓✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
-
+ this is Mirage md bot a a powerful WhatsApp bot 
+ with rich features, thanks for deploying mirage md bot
+ my developer joyboy Best bible verse is job 19:20 
+ i will be happy if you read it 
+ and please don't forget to give a  star 🌟 to my repo for motivation
 *List of commands :*
 ◇                             ◇
 `;
@@ -74,12 +78,12 @@ let menuMsg = `
 
     menuMsg += `
 ◇            ◇
-*»»————— ★ —————««*
+*»»————— 🎀★ —————««*
 "To use a command, insert ${prefixe} followed by the command_name."
  
-    Powered by Zokou-MD
+    Powered by MIRAGE-MD V1.5.2 
                                                 
-*»»————— ★ —————««*
+*»»————— 🎀★ —————««*
 `;
 
    var lien = mybotpic();
