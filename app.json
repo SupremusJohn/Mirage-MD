@@ -35,15 +35,15 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
-      "required":false
+      "value":"MIRAGE MD V1.5.2",
+      "required":true
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
-      "required":false
+      "value":"https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg",
+      "required":true
        
      },
     "PUBLIC_MODE":
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Djalega++"
+    "value": "Joyboy"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "22891733300"
+    "value": "233277114944"
   },
     "WARN_COUNT":
   {
