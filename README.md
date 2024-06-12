@@ -1,6 +1,11 @@
 # 𝐌𝐈𝐑𝐀𝐆𝐄-𝐌𝐃 𝐕1.5.2
 
 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20MIRAGE-MD-V1.5.2;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20JOY%20BOY)
+<p align="center">
+
+
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
