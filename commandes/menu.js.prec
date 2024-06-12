@@ -18,8 +18,8 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     cm.map(async (com, index) => { if (!coms[com.categorie])
         coms[com.categorie] = []; coms[com.categorie].push(com.nomCom); });
     const temps = moment(moment()).format("HH:MM:SS");
-    moment.tz.setDefault('asia/karachi ').locale("id");
-    const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
+    moment.tz.setDefault('africa\ghana ').locale("id");
+    const date = moment.tz("africa\ghana").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
     let menuMsg = "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n";
@@ -38,40 +38,42 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ╔════ ▓▓ ࿇ ▓▓ ════╗
    
    ||
-   ||     Préfixe : ${s.prefixe}
+   ||     Prefix : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
    ||      Commandes : ${cm.length}
    ||      Date : ${date}
-   ||      Heure : ${temps}
-   ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Développeurs : Djalega++||Luffy
+   ||      Hour : ${temps}
+   ||      Memory : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
+   ||  Developrer : 𝐌𝐚𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐉𝐨𝐲𝐛𝐨𝐲),𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐎𝐥𝐚𝐰𝐚𝐥𝐞04)&𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐋𝐚𝐳𝐚𝐜𝐤28)
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
 ╔════---------
-║    𝐏𝐫𝐞𝐟𝐢𝐱𝐞 : ${s.PREFIXE}
-║    𝐎𝐰𝐧𝐞𝐫 : ${s.OWNER_NAME}    
-║    𝐌𝐨𝐝𝐞 : ${mode}
-║    𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬:${cm.length}
-║    𝐃𝐚𝐭𝐞 : ${date}
-║    𝐇𝐨𝐮𝐫 : ${temps}
-║    𝐌𝐞𝐦𝐨𝐫𝐲 : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-║    𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : ${os.platform()}
-║    𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 : 𝐌𝐚𝐢𝐧 𝐝𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐉𝐨𝐲𝐛𝐨𝐲)||𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐎𝐥𝐚)||𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐋𝐚𝐳𝐚𝐜𝐤28)
-║    𝐂𝐨𝐮𝐧𝐭𝐫𝐲 :𝐆𝐡𝐚𝐧𝐚
-║    𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 :𝐀 𝐜𝐨𝐦𝐦𝐢𝐭𝐞𝐝 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧
-║    𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐝𝐚𝐭𝐞 :2024
-            
-┏━━🤖 _BOT STATUS:_🤖━━┓
-┃ 🏮  *Founder:* Salman Ahmad
-┃ 🤡  *Bot Name:* ${botname} 
-┃ 💻  *Host:* Kali Linix
-┃ 📣  *Prefix:* ${usedPrefix} 
-┃ 🕓  *Uptime:* ${uptime}
-┃ 💌  *Database:* ${rtotalreg} of ${totaluser} 
-┃ 📚  *Total Users:* ${totaluser} 
-╰───────────────⍟
-╚════--------------- \n\n`;
+║    📚*Prefix* : ${s.PREFIXE}
+│   👩‍💻*Owner* : ${s.OWNER_NAME}
+│   🏅*Mode* : ${mode}
+│   📒*Commands* : ${cm.length}
+│   📅*Date* : ${date}
+│   ⏱️*Hour* : ${temps}
+│   ⚙️*Memory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│   🗂️*Platform* : ${os.platform()}
+│   👥*Developers* :𝐌𝐚𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐉𝐨𝐲𝐛𝐨𝐲),𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐎𝐥𝐚𝐰𝐚𝐥𝐞04)&𝐂𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫(𝐋𝐚𝐳𝐚𝐜𝐤28)
+│   🇬🇭*Country* :Ghana
+│.  🆕*Release* *date* :2024
+│.  🌟*Religion* : *Christianity*
+│   🧭*Uptime:* ${uptime}
+│   🏆*Database:* ${rtotalreg} of ${totaluser} 
+│   😁*Total Users:* ${totaluser}
+│   🤖*Bot Name* : {𝐌𝐢𝐫𝐚𝐠𝐞 𝐌𝐝  v1.5.2}
+│   🎀 *Deploying host* :*Heroku*
+│   🗣️  *Language* : JavaScript
+         
+│  │=====================================│
+│  │   * _User Info:_ *.                 │ 
+│  │👤*User Tag:* ${taguser}             │         
+│  │📄*Name:* ${name}                    │
+│  │👤𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}│
+╰─────✧𝐌𝐈𝐑𝐀𝐆𝐄 𝐌𝐃 𝐕1.5.2-𝐁𝐎𝐓✧─────◆ \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
             emoji[cat] = "💞";
