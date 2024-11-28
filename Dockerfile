@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2  /root/MIRAGE_MD V1.5.2
+RUN git clone https://github.com/SupremusJohn/Mirage-MD  /root/MIRAGE_MD V1.5.2
 WORKDIR /root/MIRAGE_MD V1.5.2/
 
 
@@ -19,6 +19,6 @@ RUN npm install --legacy-peer-deps
 
 COPY . .
 
-EXPOSE 5000
+EXPOSE 10000
 
 CMD ["node", "index.js"]
